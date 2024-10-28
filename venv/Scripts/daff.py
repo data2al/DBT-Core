@@ -1,4 +1,4 @@
-#!C:\Users\alanl\Desktop\dbt core\venv\Scripts\python.exe
+#!C:\Users\alanl\Desktop\dbt-core\venv\Scripts\python.exe
 # -*- coding: utf-8 -*-
 # -*- coding: utf-8 -*-
 from __future__ import unicode_literals, print_function
