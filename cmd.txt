@@ -1,3 +1,4 @@
+#CMD - pip install pyenv-win --target %USERPROFILE%\\.pyenv
 #need to install git
 #need to install python
 python -m venv venv
